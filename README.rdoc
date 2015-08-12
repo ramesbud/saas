@@ -1,7 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Subscription-based web application
+http://https://calm-shelf-9928.herokuapp.com/
 
 Things you may want to cover:
 
